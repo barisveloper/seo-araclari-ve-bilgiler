@@ -1,6 +1,6 @@
 # 🔍 SEO Araçları ve Bilgi Rehberi – Barisveloper tarafından
 
-Merhaba! Ben Barisveloper. Bu sayfa, teknik SEO, yapay zekâ destekli içerik optimizasyonu, yapılandırılmış veri, backlink analizi ve daha fazlasını kapsayan bilgi ve proje koleksiyonudur.
+Merhaba! Ben Barış. Bu sayfa, teknik SEO, yapay zekâ destekli içerik optimizasyonu, yapılandırılmış veri, backlink analizi ve daha fazlasını kapsayan bilgi ve proje koleksiyonudur.
 
 Amacım, SEO'nun sadece içerik değil aynı zamanda teknik, analitik ve yapısal bir alan olduğunu göstermek.
 
